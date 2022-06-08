@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PraneethKondraju
-- 👀 I’m interested in DevOps
+- 👀 I’m an DevOps Engineer
 - 🌱 I’m currently learning Docker, K8S, AWS, Terraform, etc...
 - 💞️ I’m looking to collaborate on AWS DevOps Culture
 - 📫 How to reach me Mail: saipraneeth.kondaraju@gmail.com; Twitter: @saipraneeth05; LinkedIn: kondrajupraneeth
